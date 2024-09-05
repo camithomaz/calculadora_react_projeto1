@@ -107,10 +107,6 @@ const App = () => {
     }
   }
 
-  console.log(operation)
-  console.log(firstNumber)
-  console.log(currentNumber)
-
 
   return (
     <Container>
